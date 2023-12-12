@@ -1,0 +1,12 @@
+/* styles/globals.css */
+/* Include any other global styles */
+
+/* Tooltip styles */
+.tooltip {
+    position: absolute;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    z-index: 9999;
+  }
+  
